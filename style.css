@@ -62,3 +62,5 @@ main{padding-top:24px}.intro{margin-bottom:20px}.panel{padding:22px}.panel h2{ma
 @media(min-width:481px){.hero .b10-exterior img{transform:translateY(0) scale(1.25)}.hero .named-colour img{transform:scale(1.25)}}
 
 body>header{position:sticky;top:0;z-index:20;background:#fff}
+
+.otr-fees{margin-top:16px}.calculation-total{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:14px 0 18px;padding:14px 0;border-top:1px solid #ccd6c4;border-bottom:1px solid #ccd6c4;background:transparent;color:var(--dark)}.calculation-total span{font-size:12px;font-weight:700}.calculation-total b{font-size:22px;white-space:nowrap}.loan-inputs{margin-top:4px}
